@@ -1,5 +1,0 @@
-tup = (1,2,3,4,5,6,7,8,9)
-target = int(input("Enter num:"))
-
-if target in tup:
-    print("found:", target)
