@@ -1,0 +1,6 @@
+print(type(3.14))
+print(type(10))
+print(type(4 - 4j))
+print(type(['Asabeneh', 'Python', 'Finland']))
+print(type("tom"))
+print(type("Slovenia"))
